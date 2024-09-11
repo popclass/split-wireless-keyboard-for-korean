@@ -1,0 +1,11 @@
+file_format: "1"
+id: caldera
+name: Caldera
+type: shield
+url: https://github.com/split-rireless-keyboard-for-korea/Caldera
+requires: [nice_nano_v2]
+features:
+  - keys
+siblings:
+  - corne_left
+  - corne_right
